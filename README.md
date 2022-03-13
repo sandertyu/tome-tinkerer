@@ -8,3 +8,5 @@ Feel free to extend/modify this addon as you wish! My further ideas for this rac
 ---Changelog---
 
 v1.0.0 Initial release
+v1.0.1 git rebase nonsense
+v1.0.2 version/changelog updated everywhere

@@ -2,7 +2,7 @@ long_name = "Race: Tinkerer"
 short_name = "tinkerer" 
 for_module = "tome"
 version = {1,7,4}
-addon_version = {1,0,1}
+addon_version = {1,0,2}
 weight = 2000
 author = {'lowfye'}
 homepage = "https://github.com/sandertyu/tome-tinkerer"
@@ -19,6 +19,7 @@ https://github.com/sandertyu/tome-tinkerer
 ---Changelog---
 v1.0.0 Initial release
 v1.0.1 git rebase nonsense
+v1.0.2 version/changelog updated everywhere
 ]]
 tags = {'race', 'human', 'tinkerer', 'tinker'}
 
