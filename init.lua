@@ -1,7 +1,7 @@
 long_name = "Race: Tinkerer"
 short_name = "tinkerer" 
 for_module = "tome"
-version = {1,7,4}
+version = {1,7,5}
 addon_version = {1,0,2}
 weight = 2000
 author = {'lowfye'}
