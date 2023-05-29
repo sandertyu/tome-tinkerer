@@ -2,7 +2,7 @@ long_name = "Race: Tinkerer"
 short_name = "tinkerer" 
 for_module = "tome"
 version = {1,7,5}
-addon_version = {1,0,2}
+addon_version = {1,0,3}
 weight = 2000
 author = {'lowfye'}
 homepage = "https://github.com/sandertyu/tome-tinkerer"
@@ -14,12 +14,11 @@ I made this race because I wanted a consistent way to obtain tinkers with any no
 
 Feel free to extend/modify this addon as you wish! My further ideas for this race or a similar one would be to add the Engineering and Blacksmith categories as racial talent trees, but adjust their mastery and unlock status based on whether the character is a tinker class or not.
 
-https://github.com/sandertyu/tome-tinkerer
-
 ---Changelog---
-v1.0.0 Initial release
-v1.0.1 git rebase nonsense
-v1.0.2 version/changelog updated everywhere
+- v1.0.3 Update to tome4 1.7.5
+- v1.0.2 Version/changelog updated everywhere
+- v1.0.1 Git rebase nonsense
+- v1.0.0 Initial release
 ]]
 tags = {'race', 'human', 'tinkerer', 'tinker'}
 
